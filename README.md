@@ -16,7 +16,7 @@ In addition to the core functionalities, your assistant can also be customized a
 
 
 
-Features
+💎Features
 
 It can do a lot of cool things, some of them being:
 
