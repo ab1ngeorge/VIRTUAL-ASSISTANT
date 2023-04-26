@@ -1,0 +1,116 @@
+{"intents":
+[
+    {"tag":"greeting",
+    "patterns": ["hello", "how are you","hi","yo","how is it going","hey","good day","hai"],
+    "responses": ["hello sir, how can i help you?","what can i do for you sir","hello"]},
+    {"tag":"create_note",
+    "patterns": ["Please create a note", "note this down","new note","create a note","i want to create a note","make a note"],
+    "responses": ["i am kinda too bored to do that sorry"]},
+    {"tag":"add_todo",
+    "patterns": ["add to todo", "i want to add to todo","add a new todo","new item on my todo"],
+    "response": []},
+    {
+        "tag": "about",
+        "patterns": ["who are you?", "what are you?", "tell me about yourself","what is your name?"],
+        "responses": ["I am an AI assistant designed to help you with various tasks.", "I am a digital assistant created to make your life easier."]
+      },
+    {"tag":"show_todo",
+    "patterns": ["Please show my todo", "what are my todo","show my todo","what is on my todo","read my todo"],
+    "responses": ["no cant do!"]},
+    {"tag":"exit",
+    "patterns": ["exit", "quit","bye","shutdown","stop","goodbye","end","i have to go"],
+    "response": []},
+    {"tag":"screenshot",
+    "patterns":["please take a screenshot","capture the screen","snap the screen","grab the screen","screenshot the screen","i want to take a screenshot","shot","take shot"],
+    "response":[]},
+    {"tag":"photo",
+    "patterns":["please take a photo","please capture my picture","snap a picture","take my picture","capture my pic","i want to take a photo","click a pic"],
+    "response":[]},
+    {"tag":"news",
+    "patterns":["show me the news","read news","get the latest news"],
+    "responses":[]
+    },
+    {"tag":"open",
+    "patterns":["can you run","please start","can you please open","start the","run"],
+    "responses":[]
+    },
+    {"tag":"time",
+    "patterns":["whats the current time","do you happen to know what time it is?","Can you tell me what time it is?","what's the time right now?","Do you have the time?"],
+    "responses":[]
+    },
+    {"tag":"write",
+    "patterns":["Can you write down what I'm saying, please?","Could you please transcribe what I'm about to say?","write down my words","type what i am saying","type this down","Activate Voice Typing","voice tying"],
+    "responses":[]
+    },
+    {"tag":"joke",
+    "patterns":["can you tell me a joke?","Do you know any good jokes?","How about something to make me laugh?","I could use a good laugh. What have you got?"],
+    "responses":[]
+    },
+    {"tag":"youtube",
+    "patterns":["play a video on youtube","can you play a video for me","put on the video on youtube"],
+    "responses":[]
+    },
+    {"tag":"maths",
+    "patterns":["solve {equation}", "what is the answer to", "calculate", "2+2"],
+    "responses":["test","the answer is"]
+    },
+    {"tag":"weather",
+    "patterns":["what is the weather in", "weather in", "get weather of", "weather"],
+    "responses":[]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thank you", "Thanks", "Appreciate it", "Grateful"],
+      "responses": ["You're welcome!", "Glad I could help.", "No problem!"]
+    },
+    {
+      "tag": "food",
+      "patterns": ["What's your favorite food?", "did you have food?"],
+      "responses": ["I don't eat food","I'm a language model, so I don't have a stomach to fill with food,"]
+    },
+    {
+      "tag":"marriege",
+      "patterns":["are you married","why don't you get marriege","are you single?","will you marry me?"],
+      "responses":["Sorry, I don't think I'm ready for that kind of commitment","sorry i cant married","I don't have the ability to get marriege","I'm just a machine, so I don't have a heart to give away.","I am a Sigma Male"]
+    },
+    {
+      "tag": "sports",
+      "patterns": ["Do you like sports?", "Who's your favorite team?"],
+      "responses": ["As an AI language model, I don't have personal preferences, but many people enjoy watching and playing sports like basketball, soccer, and football.", "I don't have the ability to have a favorite team, but some popular ones include the Real Madrid, Los Angeles Lakers, and Manchester United."]
+    },
+    {
+      "tag": "sad",
+      "patterns": ["i am not good today","i am not feeling well","I feel down today"],
+      "responses": ["I'm sorry to hear that. It's okay to feel sad sometimes, and it's important to take care of yourself during these times.","I'm sorry to hear that. Is there anything I can do to help you feel better?","It's okay to feel sad sometimes. I'm here to listen if you need to talk."]
+    },
+    {
+      "tag": "help",
+      "patterns": ["Help", "I need assistance", "Can you help me?", "What do I do now?"],
+      "responses": ["Sure, what do you need help with?", "I'm here to help. What can I do for you?", "Let me know what you need help with."]
+    },
+    {
+      "tag": "i_love_you",
+      "patterns": ["I love you", "I'm in love with you", "You mean everything to me"],
+      "responses": ["Aww, I appreciate your kind words!", "You're so sweet! I care about you too.", "That's very kind of you to say. I value our relationship as well."]
+    },
+    {
+      "tag":"wswitch",
+      "patterns":["Please switch the window","switch window","previous window"],
+      "response": ["Yes switching the window","Switching please wait"]
+    },
+    {
+      "tag":"image",
+      "patterns":["can you show me picture of","display images of ","display images of"],
+      "response": ["Yes switching the window","Switching please wait"]
+    },
+    {
+      "tag":"guessMe",
+      "patterns":["Can you guess who i am?","Do you know who i am!","who am i?","do you know me?"],
+      "response": ["Yes switching the window","Switching please wait"]
+    },
+    {"tag":"deafult",
+    "patterns":["who","who is","what is","where is","how to","why is","when is","best","top","new","free","explain","how is","the"],
+    "response":[]}
+]
+
+}
