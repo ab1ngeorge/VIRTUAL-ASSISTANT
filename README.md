@@ -20,27 +20,47 @@ Features
 
 It can do a lot of cool things, some of them being:
 
-Greet user
-Tell current time and date
-Launch applications/softwares
-Tells about weather
-Shows your current system status (battery health)
-Tells about any person (via Wikipedia)
-Can search anything on Google  and Bing
-Can play any song on YouTube
-Tells News
-Open any website
-Plays music
-Send email (with subject and content)
-Calculate any mathematical expression (example: Shadow, calculate x + 135 - 234 = 345)
-Answer any generic question (via Wolframalpha)
-Take important note in notepad
-Tells a random joke
-Tells your IP address
-Can switch the window
-Can take screenshot
-Can hide all files in a folder and also make them visible again
-Has a cool Graphical User Interface
+•Greet user
+
+•Tell current time and date
+
+•Launch applications/softwares
+
+•Tells about weather
+
+•Shows your current system status (battery health)
+
+•Tells about any person (via Wikipedia)
+
+•Can search anything on Google  and Bing
+
+•Can play any song on YouTube
+
+•Tells News
+
+•Open any website
+
+•Plays music
+
+•Send email (with subject and content)
+
+•Calculate any mathematical expression (example: Shadow, calculate x + 135 - 234 = 345)
+
+•Answer any generic question (via Wolframalpha)
+
+•Take important note in notepad
+
+•Tells a random joke
+
+•Tells your IP address
+
+•Can switch the window
+
+•Can take screenshot
+
+•Can hide all files in a folder and also make them visible again
+
+•Has a cool Graphical User Interface
 
 HOME PAGE
 ![Screenshot 2023-04-18 205541](https://user-images.githubusercontent.com/131862797/234545291-dfae82ff-7123-4d97-aa11-b5bf3f4119fd.png)
