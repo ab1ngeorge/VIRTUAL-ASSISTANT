@@ -62,6 +62,11 @@ It can do a lot of cool things, some of them being:
 
 •Has a cool Graphical User Interface
 
+
+
+
+S̲c̲r̲e̲e̲n̲s̲h̲o̲t̲
+
 HOME PAGE
 ![Screenshot 2023-04-18 205541](https://user-images.githubusercontent.com/131862797/234545291-dfae82ff-7123-4d97-aa11-b5bf3f4119fd.png)
 
